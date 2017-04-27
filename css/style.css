@@ -1,0 +1,22 @@
+
+div#test
+{ 
+	border:purple 20px groove;
+	padding:10px 40px 40px 40px;
+	margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 300px;
+	background-color: white;
+}
+	
+body
+{
+	size: 200px;
+	color: black;
+	background-image: url("../img/grass_quiz.jpg");
+	padding-top: 45px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+	
+}
